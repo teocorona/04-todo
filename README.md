@@ -1,6 +1,6 @@
-# Webpack Starter
+# App to do
 
-Este es el proyexto inicial para crear aplicaciones utilizando webpack
+Primera app
 
 ## Notas
 
